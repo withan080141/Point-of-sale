@@ -1,0 +1,9 @@
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\bin\Debug\POS.exe
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\bin\Debug\POS.pdb
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\obj\Debug\coffee_pos_603410061-2.csproj.GenerateResource.Cache
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\obj\Debug\POS.exe
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\obj\Debug\POS.pdb
+C:\Users\Withan\Desktop\WindowsForm\POS\POS\obj\Debug\coffee_pos_603410061-2.csprojResolveAssemblyReference.cache
